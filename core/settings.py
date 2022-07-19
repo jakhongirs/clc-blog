@@ -40,7 +40,8 @@ INSTALLED_APPS = [
     
     'post',
     'author',
-    'common'
+    'common',
+    'rest_framework'
 ]
 
 MIDDLEWARE = [
